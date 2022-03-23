@@ -56,10 +56,10 @@ p {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
+  background-image: url("./Assets/digital-marketing-meeting.jpg");
   margin-top: 25px;
   background-size: cover;
   background-position: center;
-  background-image: url("./Assets/digital-marketing-meeting.jpg");
 }
 
 /*This deals with section detailing search engine optimization, online reputation management,
